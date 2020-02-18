@@ -5,6 +5,6 @@ package com.venfngc.algorithm;
  */
 public class T01 {
     public static void main(String[] args) {
-
+是
     }
 }
