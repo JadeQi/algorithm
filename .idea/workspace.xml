@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="9806c20b-90b9-415c-9e7e-e1bfb46a7c72" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/venfngc/algorithm/T09.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/venfngc/algorithm/T13.java" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <ignored path="$PROJECT_DIR$/target/" />
@@ -49,11 +49,20 @@
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/main/java/com/venfngc/algorithm/T09.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="588">
-              <caret line="28" selection-start-line="28" selection-end-line="28" />
+            <state relative-caret-position="615">
+              <caret line="54" lean-forward="true" selection-start-line="54" selection-end-line="54" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/main/java/com/venfngc/algorithm/T13.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="384">
+              <caret line="55" column="33" lean-forward="true" selection-start-line="55" selection-start-column="33" selection-end-line="55" selection-end-column="33" />
             </state>
           </provider>
         </entry>
@@ -101,6 +110,7 @@
         <option value="$PROJECT_DIR$/src/main/java/com/venfngc/shell/awk" />
         <option value="$PROJECT_DIR$/src/main/java/com/venfngc/algorithm/T.java" />
         <option value="$PROJECT_DIR$/src/main/java/com/venfngc/algorithm/T09.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/venfngc/algorithm/T13.java" />
       </list>
     </option>
   </component>
@@ -208,7 +218,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.T09">
+  <component name="RunManager" selected="Application.T13">
     <configuration name="T01" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="com.venfngc.algorithm.T01" />
       <module name="algorithm" />
@@ -248,8 +258,22 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="T13" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.venfngc.algorithm.T13" />
+      <module name="algorithm" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.venfngc.algorithm.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.T13" />
         <item itemvalue="Application.T09" />
         <item itemvalue="Application.T06" />
         <item itemvalue="Application.T01" />
@@ -269,7 +293,7 @@
       <workItem from="1582011891666" duration="6725000" />
       <workItem from="1582106373361" duration="2420000" />
       <workItem from="1582351713220" duration="5107000" />
-      <workItem from="1582779705983" duration="1565000" />
+      <workItem from="1582779705983" duration="1845000" />
     </task>
     <task id="LOCAL-00001" summary="第一次提交">
       <created>1582013213362</created>
@@ -310,7 +334,7 @@
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="15660000" />
+    <option name="totallyTimeSpent" value="15917000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -330,7 +354,7 @@
       <window_info id="UI Designer" order="2" />
       <window_info id="Web" order="3" sideWeight="0.51926297" side_tool="true" weight="0.22541603" />
       <window_info id="Favorites" order="4" sideWeight="0.5125628" side_tool="true" weight="0.20272315" />
-      <window_info content_ui="combo" id="Project" order="5" sideWeight="0.48073703" visible="true" weight="0.21422893" />
+      <window_info active="true" content_ui="combo" id="Project" order="5" sideWeight="0.48073703" visible="true" weight="0.21422893" />
       <window_info id="Structure" order="6" side_tool="true" weight="0.25" />
       <window_info id="Image Layers" order="7" />
       <window_info anchor="bottom" id="Event Log" order="0" sideWeight="0.50039744" side_tool="true" weight="0.3756906" />
@@ -341,7 +365,7 @@
       <window_info anchor="bottom" id="Terminal" order="5" weight="0.32675612" />
       <window_info anchor="bottom" id="Message" order="6" />
       <window_info anchor="bottom" id="Find" order="7" />
-      <window_info active="true" anchor="bottom" id="Run" order="8" sideWeight="0.49960256" visible="true" weight="0.3756906" />
+      <window_info anchor="bottom" id="Run" order="8" sideWeight="0.49960256" visible="true" weight="0.3756906" />
       <window_info anchor="bottom" id="Cvs" order="9" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="10" weight="0.4" />
       <window_info anchor="bottom" id="Debug" order="11" weight="0.5929648" />
@@ -456,8 +480,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/com/venfngc/algorithm/T09.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="258">
-          <caret line="26" lean-forward="true" selection-start-line="26" selection-end-line="26" />
+        <state relative-caret-position="615">
+          <caret line="54" lean-forward="true" selection-start-line="54" selection-end-line="54" />
         </state>
       </provider>
     </entry>
