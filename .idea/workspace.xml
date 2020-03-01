@@ -66,8 +66,12 @@
         </entry>
       </file>
       <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/src/main/java/com/venfngc/mysql/easy">
-          <provider selected="true" editor-type-id="text-editor" />
+        <entry file="file://$PROJECT_DIR$/src/main/java/com/venfngc/mysql/easy.sql">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="21">
+              <caret line="1" column="7" lean-forward="true" selection-start-line="1" selection-start-column="7" selection-end-line="1" selection-end-column="7" />
+            </state>
+          </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
@@ -124,6 +128,8 @@
         <option value="$PROJECT_DIR$/src/main/java/com/venfngc/algorithm/T09.java" />
         <option value="$PROJECT_DIR$/src/main/java/com/venfngc/algorithm/T13.java" />
         <option value="$APPLICATION_CONFIG_DIR$/consoles/db/1071385f-22bb-43a7-9d92-598e1d4e614f/console.sql" />
+        <option value="$PROJECT_DIR$/src/main/java/com/venfngc/mysql/easy" />
+        <option value="$PROJECT_DIR$/src/main/java/com/venfngc/mysql/easy.sql" />
       </list>
     </option>
   </component>
@@ -316,7 +322,7 @@
       <workItem from="1582106373361" duration="2420000" />
       <workItem from="1582351713220" duration="5107000" />
       <workItem from="1582779705983" duration="2507000" />
-      <workItem from="1583035771593" duration="3784000" />
+      <workItem from="1583035771593" duration="4234000" />
     </task>
     <task id="LOCAL-00001" summary="第一次提交">
       <created>1582013213362</created>
@@ -357,7 +363,7 @@
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="20543000" />
+    <option name="totallyTimeSpent" value="20993000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -518,6 +524,9 @@
     <entry file="file://$PROJECT_DIR$/src/main/java/com/venfngc/mysql/T175">
       <provider selected="true" editor-type-id="text-editor" />
     </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/venfngc/mysql/easy">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/com/venfngc/algorithm/T13.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="461">
@@ -525,8 +534,12 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/venfngc/mysql/easy">
-      <provider selected="true" editor-type-id="text-editor" />
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/venfngc/mysql/easy.sql">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="21">
+          <caret line="1" column="7" lean-forward="true" selection-start-line="1" selection-start-column="7" selection-end-line="1" selection-end-column="7" />
+        </state>
+      </provider>
     </entry>
   </component>
   <component name="masterDetails">
