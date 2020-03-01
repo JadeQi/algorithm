@@ -1,10 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="9806c20b-90b9-415c-9e7e-e1bfb46a7c72" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/venfngc/mysql/T175" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/venfngc/mysql/T175" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/venfngc/mysql/easy" afterDir="false" />
-    </list>
+    <list default="true" id="9806c20b-90b9-415c-9e7e-e1bfb46a7c72" name="Default Changelist" comment="" />
     <ignored path="$PROJECT_DIR$/out/" />
     <ignored path="$PROJECT_DIR$/target/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -319,7 +316,7 @@
       <workItem from="1582106373361" duration="2420000" />
       <workItem from="1582351713220" duration="5107000" />
       <workItem from="1582779705983" duration="2507000" />
-      <workItem from="1583035771593" duration="3479000" />
+      <workItem from="1583035771593" duration="3784000" />
     </task>
     <task id="LOCAL-00001" summary="第一次提交">
       <created>1582013213362</created>
@@ -360,7 +357,7 @@
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="20238000" />
+    <option name="totallyTimeSpent" value="20543000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
