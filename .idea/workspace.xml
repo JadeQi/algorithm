@@ -1,7 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="9806c20b-90b9-415c-9e7e-e1bfb46a7c72" name="Default Changelist" comment="" />
+    <list default="true" id="9806c20b-90b9-415c-9e7e-e1bfb46a7c72" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/venfngc/mysql/easy.sql" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/venfngc/mysql/easy.sql" afterDir="false" />
+    </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <ignored path="$PROJECT_DIR$/target/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -59,7 +61,7 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/main/java/com/venfngc/algorithm/T13.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="461">
+            <state relative-caret-position="819">
               <caret line="39" column="26" selection-start-line="39" selection-start-column="26" selection-end-line="39" selection-end-column="26" />
             </state>
           </provider>
@@ -68,8 +70,8 @@
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/main/java/com/venfngc/mysql/easy.sql">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="21">
-              <caret line="1" column="7" lean-forward="true" selection-start-line="1" selection-start-column="7" selection-end-line="1" selection-end-column="7" />
+            <state relative-caret-position="483">
+              <caret line="23" column="4" selection-start-line="23" selection-start-column="4" selection-end-line="23" selection-end-column="4" />
             </state>
           </provider>
         </entry>
@@ -79,15 +81,6 @@
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="483">
               <caret line="23" column="25" selection-start-line="23" selection-start-column="25" selection-end-line="23" selection-end-column="25" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/java/com/venfngc/shell/awk">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="504">
-              <caret line="24" column="17" selection-start-line="24" selection-start-column="17" selection-end-line="24" selection-end-column="17" />
             </state>
           </provider>
         </entry>
@@ -152,6 +145,8 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
+      <pane id="Scope" />
+      <pane id="PackagesPane" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -207,8 +202,6 @@
           <select />
         </subPane>
       </pane>
-      <pane id="PackagesPane" />
-      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -323,6 +316,7 @@
       <workItem from="1582351713220" duration="5107000" />
       <workItem from="1582779705983" duration="2507000" />
       <workItem from="1583035771593" duration="4234000" />
+      <workItem from="1583215689097" duration="901000" />
     </task>
     <task id="LOCAL-00001" summary="第一次提交">
       <created>1582013213362</created>
@@ -363,7 +357,7 @@
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="20993000" />
+    <option name="totallyTimeSpent" value="21894000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -383,7 +377,7 @@
       <window_info id="UI Designer" order="2" />
       <window_info id="Web" order="3" sideWeight="0.51926297" side_tool="true" weight="0.22541603" />
       <window_info id="Favorites" order="4" sideWeight="0.5125628" side_tool="true" weight="0.20272315" />
-      <window_info active="true" content_ui="combo" id="Project" order="5" sideWeight="0.48073703" visible="true" weight="0.21581876" />
+      <window_info active="true" content_ui="combo" id="Project" order="5" sideWeight="0.48073703" visible="true" weight="0.21740858" />
       <window_info id="Structure" order="6" side_tool="true" weight="0.25" />
       <window_info id="Image Layers" order="7" />
       <window_info anchor="bottom" id="Event Log" order="0" sideWeight="0.50039744" side_tool="true" weight="0.3756906" />
@@ -405,7 +399,7 @@
       <window_info anchor="bottom" id="LuaCheck" order="16" weight="0.3291239" />
       <window_info anchor="right" id="Maven Projects" order="0" weight="0.2927383" />
       <window_info anchor="right" id="Palette&#9;" order="1" />
-      <window_info anchor="right" id="Database" order="2" visible="true" weight="0.15779014" />
+      <window_info anchor="right" id="Database" order="2" visible="true" weight="0.15739268" />
       <window_info anchor="right" id="Capture Analysis" order="3" />
       <window_info anchor="right" id="Theme Preview" order="4" />
       <window_info anchor="right" id="Palette" order="5" />
@@ -479,6 +473,9 @@
       </provider>
       <provider editor-type-id="MavenHelperPluginDependencyAnalyzer" />
     </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/venfngc/shell/awk" />
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/venfngc/mysql/T175" />
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/venfngc/mysql/easy" />
     <entry file="file://$PROJECT_DIR$/src/main/java/com/venfngc/algorithm/T01.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="252">
@@ -500,17 +497,10 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/venfngc/shell/awk">
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/venfngc/algorithm/T13.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="504">
-          <caret line="24" column="17" selection-start-line="24" selection-start-column="17" selection-end-line="24" selection-end-column="17" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/.gitignore">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="63">
-          <caret line="3" column="9" selection-start-line="3" selection-start-column="9" selection-end-line="3" selection-end-column="9" />
+        <state relative-caret-position="819">
+          <caret line="39" column="26" selection-start-line="39" selection-start-column="26" selection-end-line="39" selection-end-column="26" />
         </state>
       </provider>
     </entry>
@@ -521,23 +511,17 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/venfngc/mysql/T175">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/venfngc/mysql/easy">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/venfngc/algorithm/T13.java">
+    <entry file="file://$PROJECT_DIR$/.gitignore">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="461">
-          <caret line="39" column="26" selection-start-line="39" selection-start-column="26" selection-end-line="39" selection-end-column="26" />
+        <state relative-caret-position="63">
+          <caret line="3" column="9" selection-start-line="3" selection-start-column="9" selection-end-line="3" selection-end-column="9" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/com/venfngc/mysql/easy.sql">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="21">
-          <caret line="1" column="7" lean-forward="true" selection-start-line="1" selection-start-column="7" selection-end-line="1" selection-end-column="7" />
+        <state relative-caret-position="483">
+          <caret line="23" column="4" selection-start-line="23" selection-start-column="4" selection-end-line="23" selection-end-column="4" />
         </state>
       </provider>
     </entry>
